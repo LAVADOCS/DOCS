@@ -1,6 +1,6 @@
 # Dashboard
 
-On Wonderland's [**dashboard**](https://app.wonderland.money/#/dashboard) users will be able to track different protocol related statistics.
+On Lavaland's [**dashboard**](https://app.lavaland.money/#/dashboard) users will be able to track different protocol related statistics.
 
 ![](<../.gitbook/assets/Screenshot 2021 10 25 at 15.32.17>)
 

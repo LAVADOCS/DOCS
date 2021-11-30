@@ -4,19 +4,19 @@ There are several feedback mechanisms within the system. These are self-reinforc
 
 ### &#x20;<a href="#player-goals" id="player-goals"></a>
 
-**Stakers care primarily about their TIME balance.** While price is important in valuing their TIME and determining the rate at which it grows, it is not the main goal. A smart staker cares only about the short and long term growth prospects of the network. That growth translates into wealth via price and balance growth.
+**Stakers care primarily about their LAVA balance.** While price is important in valuing their LAVA and determining the rate at which it grows, it is not the main goal. A smart staker cares only about the short and long term growth prospects of the network. That growth translates into wealth via price and balance growth.
 
-**Minters care primarily about TIME price.** When they mint TIME purchasing a bond, these users lock in a fixed reward in TIME. Therefore, network profitability is only helpful in calculating opportunity cost or gain; minters have their TIME gains locked in.
+**Minters care primarily about LAVA price.** When they mint LAVA purchasing a bond, these users lock in a fixed reward in LAVA. Therefore, network profitability is only helpful in calculating opportunity cost or gain; minters have their LAVA gains locked in.
 
-The ideal scenario for a minter is for price to go up; in this case, the minter benefits from their discount on TIME and the increase in price.
+The ideal scenario for a minter is for price to go up; in this case, the minter benefits from their discount on LAVA and the increase in price.
 
 Minters are still happy if price remains flat; their profit is the discount from the bond. Like stakers, minters profit from inactivity at or around their buy in via an increasing balance.
 
-Minters only lose when price goes down beyond the discount on the bond. At this point, the minters will choose between the TIME or the LP Token (_coming soon_), depending on which one is worth more. Minters always get to choose the better of the two assets, effectively combining the best pieces of both assets' risk to reward profiles.
+Minters only lose when price goes down beyond the discount on the bond. At this point, the minters will choose between the LAVA or the LP Token (_coming soon_), depending on which one is worth more. Minters always get to choose the better of the two assets, effectively combining the best pieces of both assets' risk to reward profiles.
 
 The default state of the network is at intrinsic value. After some long period of inactivity, price will always return to this level.
 
-Contractions are conceivably only triggered by short-term liquidity crises. Since TIME holders have a guarantee that price will come back above intrinsic value eventually, the only sellers below should be those who need a short term exit and are willing to take the extra loss.
+Contractions are conceivably only triggered by short-term liquidity crises. Since LAVA holders have a guarantee that price will come back above intrinsic value eventually, the only sellers below should be those who need a short term exit and are willing to take the extra loss.
 
 **Expansions can be triggered by an increase in staking or minting.**
 
