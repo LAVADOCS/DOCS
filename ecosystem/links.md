@@ -1,25 +1,19 @@
 # Links
 
-Links
+[Landing](https://lava.financial): https://lava.financial/&#x20;
 
-Lavaland is a broad ecosystem. You will be able to find here all the links to our official social networks!
+App: https://app.lava.financial/ (COMING SOON)&#x20;
 
-### &#x20;<a href="#website" id="website"></a>
+[MEDIUM](https://lavafinancial.medium.com):&#x20;
 
-Make sure to always use this link to access our **** [**Website**](https://www.lavaland.money/stake)**,** to avoid scams or phishing!
+https://lavafinancial.medium.com/introducing-lava-financial-a-hybrid-node-as-a-service-586ad0a3f87e https://lavafinancial.medium.com/defi-musings-ideas-and-protocol-internals-that-set-lava-financial-apart-3474f2eade8a https://lavafinancial.medium.com/lava-financial-launch-details-b3cd8084667a&#x20;
 
-### &#x20;<a href="#github" id="github"></a>
+[TWITTER](https://twitter.com/LavaNodes): https://twitter.com/LavaNodes&#x20;
 
-You can find the code for all of our smart contracts on our [**Github**](https://github.com/Lavaland-Money) page!
+[DISCORD](https://discord.gg/lavafinancial): https://discord.gg/lavafinancial&#x20;
 
-### &#x20;<a href="#twitter" id="twitter"></a>
+[TELEGRAM](https://t.me/lavafinancia): https://t.me/lavafinancial
 
-Use our Official [**Twitter**](https://twitter.com/lavaland\_fi) Account to be up to date with all our News!
+&#x20;[FORUMS](https://forum.lava.financial): https://forum.lava.financial/&#x20;
 
-### &#x20;<a href="#telegram" id="telegram"></a>
-
-The Official TG chat for Lavaland can be found [**here**](https://t.me/joinchat/6UybL5rJMEhjN2Y5)!
-
-
-
-Last modified 27d ago
+[GOVERNANCE](https://vote.lava.financial): https://vote.lava.financial/

@@ -4,19 +4,20 @@
 
 ## Basics
 
-* [Minting](basics/minting.md)
-* [Staking](basics/staking.md)
+* [Community Node Pools & Staking](basics/staking.md)
+* [Node Creation](basics/node-creation.md)
+* [Bonding Nodes](basics/minting.md)
 * [FAQ](basics/faq.md)
 
-## Using Lavaland
+## Using Lava Financial
 
-* [Dashboard](using-lavaland/dashboard.md)
-* [Stake your LAVA (🎩, 🎩)](using-lavaland/stake-your-time.md)
-* [Mint your LAVA (🫖, 🫖)](using-lavaland/mint-your-time/README.md)
-  * [LAVA-DAI](using-lavaland/mint-your-time/time-mim.md)
-  * [wFTM](using-lavaland/mint-your-time/wavax.md)
-  * [DAI](using-lavaland/mint-your-time/mim.md)
-  * [LAVA-FTM](using-lavaland/mint-your-time/time-avax.md)
+* [Dashboard](using-lava-financial/dashboard.md)
+* [Stake your LAVA ](using-lava-financial/stake-your-time.md)
+* [Bond Nodes with your LAVA](using-lava-financial/mint-your-time/README.md)
+  * [LAVA-DAI](using-lava-financial/mint-your-time/time-mim.md)
+  * [wFTM](using-lava-financial/mint-your-time/wavax.md)
+  * [DAI](using-lava-financial/mint-your-time/mim.md)
+  * [LAVA-FTM](using-lava-financial/mint-your-time/time-avax.md)
 
 ## Protocol Internals
 
@@ -30,4 +31,3 @@
 * [Contracts](ecosystem/contracts.md)
 * [Equations](ecosystem/equations.md)
 * [Links](ecosystem/links.md)
-* [Marketing Materials](ecosystem/marketing-materials.md)

@@ -2,17 +2,17 @@
 
 ### &#x20;<a href="#time" id="time"></a>
 
-Find the LAVA token address [**here**](https://snowtrace.io/token/0xb54f16fb19478766a268f172c9480f8da1a7c9c3).
+Find the LAVA token address here.
 
 ### &#x20;<a href="#memories" id="memories"></a>
 
-Find the sLava token address [**here**](https://snowtrace.io/token/0x136acd46c134e8269052c62a67042d6bdedde3c9).
+Find the nLava token address here.
 
 ### &#x20;<a href="#wmemo" id="wmemo"></a>
 
-wMEMO is a wrapped version of MEMO. Users can wrap their MEMO into wMEMO, and receive their rebase as an increase in the value of wMEMO rather than an increase in the amount of MEMO.
+wLava is a wrapped version of Lava. Users can wrap their Lava into wLava and receive their rebase as an increase in the value of wLava rather than an increase in the amount of Lava.
 
-wMEMO can be used as collateral on Abracadabra as well as bridged towards other chains.
+
 
 ### &#x20;<a href="#mim" id="mim"></a>
 
@@ -20,12 +20,11 @@ Find Magic Internet Money token address [**here**](https://snowtrace.io/token/0x
 
 ### &#x20;<a href="#treasury" id="treasury"></a>
 
-Find the Lavaland Treasury address on [**here**](https://cchain.explorer.avax.network/address/0x1c46450211CB2646cc1DA3c5242422967eD9e04c/tokens).
+Find the Lava Financial Treasury address on here
 
 ### &#x20;<a href="#dao-on-fantom" id="dao-on-fantom"></a>
 
-Find Lavaland DAO address on Fantom [**here**](https://snowtrace.io/address/0x78a9e536EBdA08b5b9EDbE5785C9D1D50fA3278C). _Please bear in mind that the only LAVA address is the one mentioned above!_
+Find Lava Financial DAO address on AVAX [**here**](https://snowtrace.io/address/0x78a9e536EBdA08b5b9EDbE5785C9D1D50fA3278C). _Please bear in mind that the only LAVA address is the one mentioned above!_
 
 ### &#x20;<a href="#dao-on-ethereum" id="dao-on-ethereum"></a>
 
-Find Lavaland DAO address on Ethereum Mainnet [**here**](https://etherscan.io/address/0x355d72fb52ad4591b2066e43e89a7a38cf5cb341)**.**

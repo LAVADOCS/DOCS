@@ -1,12 +1,12 @@
-# Mint your LAVA (🫖, 🫖)
+# Bond Nodes with your LAVA
 
-The Mint page allow users to mint LAVA from the protocol at a discount by trading it with i) **liquidity** (LP tokens) or ii) **other assets**. The former is called liquidity minting and the latter reserve minting.
+The Bond page allow users to create Nodes from the protocol at a discount by trading it with i) **liquidity** (LP tokens) or ii) **other assets**. The former is called liquidity minting and the latter reserve minting.
 
-The minting action create bonds which take roughly 15 epochs to vest, and LAVA tokens are vested linearly to the user over that period. Liquidity minting help the protocol to accumulate and lock liquidity, while reserve minting allow the protocol to grow its treasury, and thus its Backing per LAVA faster.
+The bonding action create bonds which take roughly 15 epochs to vest, and LAVA tokens are vested linearly to the user over that period, until a full node is created with the full amount of LAVA. Liquidity minting help the protocol to accumulate and lock liquidity, while reserve minting allow the protocol to grow its treasury, and thus its Backing per LAVA faster.
 
-**​**[**Lavaland**](https://app.lavaland.money/bonds) offers currently different types of assets that can be used to mint LAVA on its website:
+**​Lava Financial**  offers different types of assets that can be used to bond Nodes on its website:
 
-_The "Legacy Website" Button in the bottom left part of the screen will redirect you to the previous UI of Lavaland!_
+__
 
 ### &#x20;<a href="#settings" id="settings"></a>
 
@@ -14,7 +14,7 @@ Settings is a feature that allows you to mint **LAVA** while sending the acquire
 
 1.  1\.
 
-    Go to [**Mint**](https://app.lavaland.money/#/mints) page and select the assets you want to use to mint LAVAs.
+    Go to **Mint** page and select the assets you want to use to mint LAVAs.
 2.  2\.
 
     Select the amount that you would like to mint, then click on the cogwheel icon at the top right of the page.
@@ -43,7 +43,7 @@ Settings is a feature that allows you to mint **LAVA** while sending the acquire
 
 Go to the [**Mint**](https://app.lavaland.money/#/mints) page and select the bond type you have purchased. Select the "Redeem" tab.
 
-Use the **Claim** to claim all of your available rewards**,** and have the pending LAVA sent to your wallet.
+Use the **Claim** to claim all of your available rewards\*\*,\*\* and have the pending LAVA sent to your wallet.
 
 Use the **Claim and Autostake** button to have all the available LAVA sent automatically to the staking contract and receive the sLava as a receipt for your stake!
 

@@ -1,8 +1,8 @@
-# Stake your LAVA (🎩, 🎩)
+# Stake your LAVA&#x20;
 
-Staking allows you to earn **LAVA** passively via auto-compounding. By staking your **LAVA** with **Lavaland**, you receive **sLava** (staked LAVA) in return at a 1:1 ratio. After that, your sLava balance will increase automatically on every epoch (8 hours) based on the current APY.
+Staking allows you to earn **LAVA** passively via auto-compounding. By staking your **LAVA** with **Lava financial**, you receive n**Lava** (Noded LAVA) . After that, your nLava balance will increase automatically on every epoch (8 hours) based on the current APY.
 
-The **sLava** address on Fantom is **0x136Acd46C134E8269052c62A67042D6bDeDde3C9.**
+The n**Lava** address on Fantom is **0x136Acd46C134E8269052c62A67042D6bDeDde3C9.**
 
 ![](../.gitbook/assets/Staking)
 
@@ -11,10 +11,10 @@ The **sLava** address on Fantom is **0x136Acd46C134E8269052c62A67042D6bDeDde3C9.
 1.
 2.  2\.
 
-    Make sure the output currency is LAVA. You can also copy and paste LAVA contract address in the output currency field to ensure you are swapping the right token. The **LAVA** token address on Fantom is **0xb54f16fB19478766A268F172C9480f8da1a7c9C3.**
+    Make sure the output currency is LAVA. You can also copy and paste LAVA contract address in the output currency field to ensure you are swapping the right token. The **LAVA** token address on AVAX is \[address]**.**
 3.  3\.
 
-    You can select any input currency based on your available wallet balance. We reccomend FTM-LAVA pair for the deepest liquidity!
+    You can select any input currency based on your available wallet balance. We reccomend MIM-LAVA pair for the deepest liquidity!
 4.  4\.
 
     Select the amount of **LAVA** you want to swap for. Then click "Approve" and sign the transaction.
@@ -29,8 +29,6 @@ _Note: The "Approve" transaction is only needed when you swap **LAVA** for the f
 
 ### &#x20;<a href="#how-to-stake" id="how-to-stake"></a>
 
-![](<../.gitbook/assets/Screenshot 2021 10 25 at 15.33.03>)
-
 1.  1\.
 
     Go to the [**Stake**](https://app.lavaland.money/stake) page of the Lavaland website. Select the "Stake" tab.
@@ -44,7 +42,7 @@ _Note: The "Approve" transaction is only needed when you swap **LAVA** for the f
 
     After the "Approve" transaction has been processed successfully, click "Stake" and sign the transaction. Voila, you have staked your **LAVA**!
 
-### &#x20;<a href="#how-to-unstake" id="how-to-unstake"></a>
+### To unstake <a href="#how-to-unstake" id="how-to-unstake"></a>
 
 1.  1\.
 

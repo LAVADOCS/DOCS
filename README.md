@@ -2,7 +2,7 @@
 
 ### &#x20;<a href="#what-is-lavaland" id="what-is-lavaland"></a>
 
-**​**[**Lavaland**](https://www.lavaland.money/stake) is the first decentralized reserve currency protocol available on the **Fantom Network** based on the **LAVA** token. Each **LAVA** token is backed by a basket of assets (e.g., DAI, LAVA-FTM LP Tokens etc etc) in the Lavaland treasury, giving it an intrinsic value that it cannot fall below. **Lavaland** also introduces economic and game-theoretic dynamics into the market through staking and minting.
+**​Lava Financial** is the first decentralized reserve currency protocol available on the **Fantom Network** based on the **LAVA** token. Each **LAVA** token is backed by a basket of assets (e.g., DAI, LAVA-FTM LP Tokens etc etc) in the Lavaland treasury, giving it an intrinsic value that it cannot fall below. **Lavaland** also introduces economic and game-theoretic dynamics into the market through staking and minting.
 
 ### &#x20;<a href="#what-is-the-point-of-lavaland" id="what-is-the-point-of-lavaland"></a>
 
@@ -22,7 +22,7 @@ The main benefit for minters comes from price consistency. Minters commit a capi
 
 ### &#x20;<a href="#who-created-olympus" id="who-created-olympus"></a>
 
-Lavaland is a fork of [**Olympus**](https://www.olympusdao.finance) **** on the Fantom Network. Our team is mostly anonymous, born from the DeFi Community. We aim at becoming a Decentralized Autonomous Organization, and we are actively working towards that goal.
+Lavaland is a fork of [**Olympus**](https://www.olympusdao.finance) \*\*\*\* on the Fantom Network. Our team is mostly anonymous, born from the DeFi Community. We aim at becoming a Decentralized Autonomous Organization, and we are actively working towards that goal.
 
 ### &#x20;<a href="#who-runs-olympus" id="who-runs-olympus"></a>
 

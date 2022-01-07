@@ -2,9 +2,9 @@
 
 ### &#x20;<a href="#staking" id="staking"></a>
 
-deposit=withdrawaldeposit = withdrawal
 
-Swaps between **LAVA** and **sLava** during staking and unstaking are always honored 1:1. The amount of LAVA deposited into the staking contract will always result in the same amount of **sLava**. And the amount of sLava withdrawn from the staking contract will always result in the same amount of LAVA.
+
+Swaps between **LAVA** and n**Lava** during staking and unstaking are always honored 1:1. The amount of LAVA deposited into the staking contract will always result in the same amount of n**Lava**. And the amount of sLava withdrawn from the staking contract will always result in the same amount of LAVA.
 
 rebase=1−(LAVADeposits/sLavaOutstanding)rebase = 1 - ( LAVADeposits / sLava Outstanding )
 

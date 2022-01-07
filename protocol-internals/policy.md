@@ -1,6 +1,6 @@
 # Policy
 
-**​**[**Lavaland**](https://www.lavaland.money/stake) features policy constants that allow us to optimize the system.
+**​Lava Financial** features policy constants that allow us to optimize the system.
 
 ### &#x20;<a href="#bonds" id="bonds"></a>
 
